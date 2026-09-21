@@ -15,6 +15,17 @@ Focused on Data Science and Machine Learning, interested in using data, statisti
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+### IDEs & Development Tools
+
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 - Data Analysis
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
@@ -35,16 +46,11 @@ Focused on Data Science and Machine Learning, interested in using data, statisti
 - Predictive Modeling Concepts
 - Analytical & Data-Driven Problem Solving
 
-### Data & Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ### Computer Science Foundations
 
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
+- Array Oriented Programming (AOP)
 - Programming Fundamentals
 - Database Fundamentals
 - SQL & CRUD Operations
@@ -91,6 +97,11 @@ I enjoy teaching Computer Science and programming concepts.
 My goal is to make difficult technical concepts simple
 and understandable.
 
+## Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+</p>
 
 ## Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/armaan-akhtar-919756377/)
