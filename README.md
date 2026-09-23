@@ -8,23 +8,25 @@ Focused on Data Science and Machine Learning, interested in using data, statisti
 ## Technologies & Skills
 
 ###  Data & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48" height="48" />
+</p>
+
 
 ### IDEs & Development Tools
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dev-C++](https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,cpp,git,github" height="48" />
+</p>
 
 - Data Analysis
 - Data Cleaning & Preparation
@@ -59,23 +61,30 @@ Focused on Data Science and Machine Learning, interested in using data, statisti
 - Logic Gates
 - Karnaugh Maps (K-Maps)
 
+
 ### Other Programming Experience
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,js" height="48" />
+</p>
+
 
 ### Web & Backend Experience
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" height="48" />
+  <img src="https://img.icons8.com/fluency/48/api-settings.png" width="48" height="48" alt="REST API" />
+</p>
+
 
 ### IoT & Embedded Systems
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" height="48" />
+</p>
 
 - Arduino Programming
 - IoT Fundamentals
